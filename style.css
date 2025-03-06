@@ -1,0 +1,22 @@
+*{
+
+  
+ 
+}
+.container1{
+  color: white;
+  display: inline-block;
+  background-color: black;
+  justify-items: center;
+  text-align: top;
+}
+
+h1{
+  margin: none;
+}
+
+.input1{
+  color: white;
+  background-color: white;
+  border: none;
+}
