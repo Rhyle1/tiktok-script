@@ -16,6 +16,14 @@
 .input1{
   background-color: white;
   height: 20px;
+  margin-left: 20px;
+}
+.container2{
+  display: inline-block;
+  color: white;
+  margin-top: 50px;
+  margin-left: 20px;
+  cursor: pointer;
 }
 
 
